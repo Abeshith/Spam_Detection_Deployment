@@ -11,7 +11,7 @@ from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 import nltk
 
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # Set page title
